@@ -1,10 +1,3 @@
-# 🎃 Hacktoberfest 2023! 👨‍💻 
-ATL BitLab is participating in [Hacktoberfest 2023](https://hacktoberfest.com/), and this repo is included! Celebrate the 10th anniversary of Hacktoberfest this year! Hosted annually every October, Hacktoberfest is a month-long event sponsored by DigitalOcean, GitHub, and various other partners, championing open-source contributions.
-
-If you're new to Hacktoberfest, you can register to participate [here](https://hacktoberfest.com/auth/) anytime from September 26th- October 31st.
-
-Check out our [project board](https://github.com/orgs/ATLBitLab/projects/1) and [issues](https://github.com/ATLBitLab/open-abbot/issues) for good ways to contribute.
-
 # Abbot
 A helpful bitcoiner bot at [ATL BitLab](https://atlbitlab.com/abbot). Est. block 797812.
 
